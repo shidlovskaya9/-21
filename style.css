@@ -95,7 +95,7 @@ blockquote {
 }
 
 header {
-  background: url(/fon.jpg) no-repeat center center fixed;
+  background: url(fon.jpg) no-repeat center center fixed;
   background-size: cover;
   height: 480px;
 }
